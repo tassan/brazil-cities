@@ -1,0 +1,26 @@
+{
+  "name": "brazil-cities",
+  "version": "1.0.0",
+  "description": "package to fetch IBGE's data about Brazilian cities",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tassan/brazil-cities.git"
+  },
+  "keywords": [
+    "ibge",
+    "brazil",
+    "cities",
+    "states",
+    "brazilian"
+  ],
+  "author": "Flávio Tassan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tassan/brazil-cities/issues"
+  },
+  "homepage": "https://github.com/tassan/brazil-cities#readme"
+}
